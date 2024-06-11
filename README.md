@@ -70,4 +70,6 @@ A recent survey indicates significant expectations for the impact of Web 3.0 on 
 This document is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For further information, please contact the authors at [Presidency University](https://www.presidencyuniversity.in).
+If you have any questions or feedback, feel free to reach out:
+- Email: nikithmurali007@gmail.com
+- GitHub: [@nikithmurali](https://github.com/nikithmurali)
